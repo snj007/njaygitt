@@ -12,7 +12,7 @@ public class TestingMain {
 //		so.setId(50);
 		Class mySOClass = SampleObject.class;
 		//Class againtest = Class.forName("annotation.SampleObject");
-//		System.out.println("ids :: "+so.getId());
+//		System.out.println("idssssssss :: "+so.getId());
 //		System.out.println("Name :: "+so.getName());
 //		System.out.println("Class :: "+so.getClass());
 		System.out.println(mySOClass.getName());
