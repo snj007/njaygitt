@@ -1,2 +1,3 @@
 this is the file created for branch 1
 new1
+new2
