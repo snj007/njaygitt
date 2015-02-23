@@ -15,7 +15,9 @@ public @interface TesterInfo {
  
 	Priority priority() default Priority.MEDIUM;
 	String[] tags() default "";
-	String createdBy() default "Mkyong_Sanjay_Branch_first_Master";
+	String createdBy() default "Mkyong_Sanjay_Branch_first_second_Master";
+	String createdBy() default "Mkyong_Sanjay_Branch_second_master";
+	String createdBy() default "Mkyong_Sanjay";
 	String master;
  
 	String lastModified() default "03/01/2014";
