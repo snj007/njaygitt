@@ -3,7 +3,7 @@ package annotation;
 public class SampleObject {
 
 	private int id=10;
-	private String name="Sanjay";
+	private String name="Sanjay_change after merging with master";
 	public int getIdssssssssss() {
 		return id;
 	}
